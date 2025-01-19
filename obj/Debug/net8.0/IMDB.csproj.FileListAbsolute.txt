@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\IMDB\IMDB\bin\Debug\net8.0\IMDB.exe
+C:\Users\Gamze\source\repos\IMDB\IMDB\bin\Debug\net8.0\IMDB.deps.json
+C:\Users\Gamze\source\repos\IMDB\IMDB\bin\Debug\net8.0\IMDB.runtimeconfig.json
+C:\Users\Gamze\source\repos\IMDB\IMDB\bin\Debug\net8.0\IMDB.dll
+C:\Users\Gamze\source\repos\IMDB\IMDB\bin\Debug\net8.0\IMDB.pdb
+C:\Users\Gamze\source\repos\IMDB\IMDB\obj\Debug\net8.0\IMDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\IMDB\IMDB\obj\Debug\net8.0\IMDB.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\IMDB\IMDB\obj\Debug\net8.0\IMDB.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\IMDB\IMDB\obj\Debug\net8.0\IMDB.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\IMDB\IMDB\obj\Debug\net8.0\IMDB.sourcelink.json
+C:\Users\Gamze\source\repos\IMDB\IMDB\obj\Debug\net8.0\IMDB.dll
+C:\Users\Gamze\source\repos\IMDB\IMDB\obj\Debug\net8.0\refint\IMDB.dll
+C:\Users\Gamze\source\repos\IMDB\IMDB\obj\Debug\net8.0\IMDB.pdb
+C:\Users\Gamze\source\repos\IMDB\IMDB\obj\Debug\net8.0\IMDB.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\IMDB\IMDB\obj\Debug\net8.0\ref\IMDB.dll
